@@ -6,6 +6,7 @@ wlx, wly = 0, 0
 steps = []
 
 
+# 水壶问题：一个3L水桶，一个4L水桶，如何让4L水桶恰好只装2L水
 def aiwater(deep=6):
     global wlx
     global wly
